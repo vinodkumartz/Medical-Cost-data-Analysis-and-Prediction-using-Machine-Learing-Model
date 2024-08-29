@@ -22,7 +22,7 @@ Training the models using the prepared dataset and tuning hyperparameters to opt
 Evaluating the models using metrics like R2-Score, Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) to determine their accuracy and effectiveness in predicting medical charges.
 Comparing the performance of different models to select the best-performing algorithm.
 
-4)Insights and Analysis:
+4) Insights and Analysis:
 
 Analyzing the model results to understand the impact of different features on medical charges. For example, identifying how factors like age, BMI, smoking status, or region influence medical expenses.
 Visualizing relationships and patterns within the data to provide actionable insights for stakeholders.
