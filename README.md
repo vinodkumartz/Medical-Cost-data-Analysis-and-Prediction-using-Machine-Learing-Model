@@ -1,1 +1,1 @@
-# Medical-Cost-data-Analysis-and-Prediction-using-Machine-Learing-Model
+# Medical-Cost-data-Analysis-and-Prediction-using-Machine-Learning-Model
