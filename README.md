@@ -33,6 +33,6 @@ Summarizing key findings from the analysis and model predictions.
 Providing recommendations for healthcare providers and insurers to manage costs better and offer personalized services based on patient demographics and health conditions.
 
 
-Outcomes:
+# Outcomes:
 
 By the end of this project, a robust machine learning model will be developed to predict medical charges accurately. The insights gained from this analysis can help in risk assessment, policy formulation, and cost management, ultimately leading to more efficient and equitable healthcare delivery.
