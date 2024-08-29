@@ -5,6 +5,7 @@ This project involves analyzing medical charges data and building predictive mod
 1) Data Exploration and Preprocessing:
 
 The first step involves exploring the dataset to understand the features and their distributions. Common features in medical charges data include age, gender, BMI, number of children, smoking status, region, and other demographic and health-related factors.
+
 Data cleaning and preprocessing are crucial, such as handling missing values, encoding categorical variables, and normalizing or scaling numerical features to prepare the data for modeling.
 
 2) Feature Engineering:
@@ -33,4 +34,5 @@ Providing recommendations for healthcare providers and insurers to manage costs 
 
 
 Outcomes:
+
 By the end of this project, a robust machine learning model will be developed to predict medical charges accurately. The insights gained from this analysis can help in risk assessment, policy formulation, and cost management, ultimately leading to more efficient and equitable healthcare delivery.
